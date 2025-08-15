@@ -16,9 +16,9 @@
 
 ## 🛠 Tech Stack
 **Languages:** Python, JavaScript, HTML, CSS  
-**Frameworks & Libraries:** Node.js, Express.js, EJS, Bootstrap  
+
 **Databases:** MongoDB, MySQL  
-**Tools:** Git, GitHub, VS Code, Postman  
+**Tools:** Git, GitHub, VS Code,   
 **Special Interests:** Cybersecurity, AI/ML, Web Scraping
 
 ---
