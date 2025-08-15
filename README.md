@@ -32,9 +32,9 @@
 ---
 
 ## 📫 Connect with Me
-- 📧 **Email:** your.email@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🖥 [Portfolio Website](https://yourportfolio.com)
+- 📧 **Email:** bindhu12345a@example.com  
+- 💼 [LinkedIn]https://www.linkedin.com/in/bindhu-madhavi-midatha-0457542ab/)  
+
 
 ---
 
